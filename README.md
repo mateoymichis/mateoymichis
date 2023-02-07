@@ -1,4 +1,10 @@
-### Hi there 👋
+## ¡Hola! Soy Mateo Fernandez 👋
+### Desarrollador web full stack
+
+- 🌱 Estoy estudiando Tecnicatura en Desarrollo de Aplicaciones Informáticas en UNICEN
+- 📫Email: mateo.rost@gmail.com
+- <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
+
 
 <!--
 **mateoymichis/mateoymichis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
