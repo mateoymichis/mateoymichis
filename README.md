@@ -1,9 +1,10 @@
 ## ¡Hola! Soy Mateo Fernandez 👋
 ### Desarrollador web full stack
 
+- 👞 Di mis primeros pasos en este apasionante mundo con Argentina Programa
 - 🌱 Estoy estudiando Tecnicatura en Desarrollo de Aplicaciones Informáticas en UNICEN
 - 📫Email: mateo.rost@gmail.com
-- <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
+- 💼 <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
 
 
 <!--
