@@ -3,7 +3,7 @@
 
 - 👞 Di mis primeros pasos en este apasionante mundo con **Argentina Programa** y **Oracle Next Education**
 - 🌱 Estoy estudiando Tecnicatura en Desarrollo de Aplicaciones Informáticas en **UNICEN**
-- 🌱 Terminando bootcamp de QA testing en **Mind Hub**
+- 📜 QA tester - **Mind Hub**
 - 📫Email: mateo.rost@gmail.com
 - 💼 <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
 - 🏠 Necochea, Buenos Aires, Argentina
