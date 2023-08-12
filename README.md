@@ -1,9 +1,9 @@
 ## ¡Hola! Soy Mateo Fernandez 👋
-### Desarrollador web full stack
+### Desarrollador backend Java
 
-- 👞 Di mis primeros pasos en este apasionante mundo con **Argentina Programa** y **Oracle Next Education**
+- 💼 Trabajando como backend developer en ICBC con MobyDigital
+- 👞 Di mis primeros pasos en este apasionante mundo con aprendiendo desarrollo web en **Argentina Programa**
 - 🌱 Estoy estudiando Tecnicatura en Desarrollo de Aplicaciones Informáticas en **UNICEN**
-- 📜 QA tester - **Mind Hub**
 - 📫Email: mateo.rost@gmail.com
 - 💼 <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
 - 💻 https://mateofernandez.ar
