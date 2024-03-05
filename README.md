@@ -5,7 +5,7 @@
 <h3>Sobre mí</h3>
 
 - 💼 Trabajando como backend developer en **ICBC Argentina** con MobyDigital
-- 👞 Di mis primeros pasos en este apasionante mundo con aprendiendo desarrollo web en **Argentina Programa**
+- 👞 Di mis primeros pasos en este apasionante mundo aprendiendo desarrollo web en **Argentina Programa**
 - 🌱 Estoy estudiando Tecnicatura en Desarrollo de Aplicaciones Informáticas en **UNICEN**
 - 📫Email: mateo.rost@gmail.com
 - 💼 <a  href="https://www.linkedin.com/in/emanuelmateofernandez/" target="_blank">LinkedIn</a>
